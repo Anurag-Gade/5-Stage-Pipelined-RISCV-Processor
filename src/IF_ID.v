@@ -24,7 +24,7 @@
 module IF_ID(input clk, 
              input [31:0] PCplusfour,
              input [31:0] Instr,
-             input stall
+             input stall,
              output reg [31:0] IF_ID_PCplusfour,
              output reg [31:0] IF_ID_Instr);
 
