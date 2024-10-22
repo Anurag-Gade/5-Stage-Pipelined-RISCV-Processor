@@ -1,1 +1,1 @@
-# 5-Stage-Pipelined-RISCV-Processot
+# 5-Stage-Pipelined-RISCV-Processor
